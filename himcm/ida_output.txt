@@ -1,0 +1,2 @@
+主题 1: 0.014*"united" + 0.012*"olympics" + 0.006*"olympic" + 0.005*"athletes" + 0.005*"games" + 0.004*"france" + 0.004*"sports" + 0.004*"gold" + 0.004*"team" + 0.004*"britain"
+主题 2: 0.023*"olympics" + 0.011*"india" + 0.010*"united" + 0.008*"raygun" + 0.008*"australia" + 0.007*"money" + 0.007*"olympic" + 0.006*"games" + 0.006*"sport" + 0.005*"day"
