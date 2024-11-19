@@ -27,4 +27,4 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 哦对，我忘放requirements了，自己看着办吧
-![beautiful cat]()
+![beautiful cat](/1415_1732003422_converted.gif)
