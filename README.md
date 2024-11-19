@@ -1,4 +1,5 @@
 # 我是黄铭宣 ![Fake Licence](https://img.shields.io/badge/Ricky_syq-Laura_lzy-blue)
+![Korean Eddie](/WechatIMG243762-removebg-preview.png)
 
 一个使用机器学习预测奥运会项目的工具
 
@@ -26,3 +27,4 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 哦对，我忘放requirements了，自己看着办吧
+![beautiful cat]()
