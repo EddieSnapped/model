@@ -15,6 +15,5 @@ IDK
 
 - Python 3.x
 
-```
 
 ![beautiful cat](/1415_1732003422_converted.gif)
